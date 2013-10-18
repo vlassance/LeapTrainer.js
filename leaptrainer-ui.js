@@ -67,6 +67,8 @@ jQuery(document).ready(function ($) {
 	 */
 	var trainer = new LeapTrainer.Controller({controller: controller});
 	
+
+
 	/*
 	 * We get the DOM crawling done now during setup, so it's not consuming cycles at runtime.
 	 */
